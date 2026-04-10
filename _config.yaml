@@ -1,4 +1,6 @@
 theme: minima
-title: My Blog
+title: Bloggus Woggus
 baseurl: /blogguswoggus
 future: true
+minima:
+  skin: dark
