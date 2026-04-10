@@ -1,4 +1,8 @@
-theme: jekyll-theme-midnight
 title: Bloggus Woggus
+remote_theme: jekyll/minima
 baseurl: /blogguswoggus
 future: true
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark
