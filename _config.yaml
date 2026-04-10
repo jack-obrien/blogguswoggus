@@ -1,6 +1,4 @@
-theme: minima
+theme: jekyll-theme-midnight
 title: Bloggus Woggus
 baseurl: /blogguswoggus
 future: true
-minima:
-  skin: dark
